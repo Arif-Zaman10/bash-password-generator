@@ -7,12 +7,15 @@ This is a simple bash script that generates random passwords using `sha256sum` a
    git clone https://github.com/Arif-Zaman10/bash-password-generator.git  
    cd bash-password-generator  
 
-2. Make the script executable:  
+2. Make the script executable:
+   ```bash 
    chmod +x task.sh  
 
-3. Run the script with the desired password length:  
-   ./task.sh 10  
-   Example output:  
+4. Run the script with the desired password length:
+   ```bash
+   ./task.sh 10
+
+5. Example output:  
    Your password is e3a9c8f7d1  
 
 
